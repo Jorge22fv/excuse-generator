@@ -29,6 +29,6 @@ window.onload = function() {
     what[whatex] +
     " " +
     when[whenex];
-
+  console.log(excuse);
   document.getElementById("excuse").innerHTML = excuse;
 };
