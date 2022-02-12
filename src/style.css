@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#btn {
+  background-color: rgb(250, 230, 192);
+  border-radius: 5px;
+  border-color: beige;
+}
